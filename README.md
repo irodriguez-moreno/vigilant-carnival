@@ -8,6 +8,7 @@
 	- [Project Gutenberg](https://www.gutenberg.org): Sitio legal. Similar a Wikisource, libros en dominio público. 
 	- [IRC (Guía a prueba de lesos en reddit)](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/): Existen canales de IRC (sí, así de viejo) para bajar libros. 
 	- [PDFDrive](https://www.pdfdrive.com): Pirata, 28 millones de textos aunque no hay cualquier cosa. 
+	- [Marxists.org](https://www.marxists.org): Literatura marxista, traducciones liberadas de derechos de autor. 
 - Papers
 	- [Sci-Hub](https://sci-hub.se)  El más conocido y efectivo, de la más grande de todas, [Alexandra Elbakyan](https://es.wikipedia.org/wiki/Alexandra_Elbakyan) 
 	- [Academia.edu](https://www.academia.edu) Se encuentran papers y también libros. En teoría ayuda también a escribirle a los autores de los papers.
